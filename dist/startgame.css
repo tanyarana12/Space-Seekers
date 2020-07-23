@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: linear-gradient(#E0EAFC,#CFDEF3);
+    height: 100vh;
+}
+
+#clickkkkk{
+  display: none;
+}
+
+.startgame{
+    display: block;
+     width: 120px;
+    height: 30px;
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    border: 1px solid #26a65b;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: 0.5s;
+    box-sizing: border-box;
+    background-size: 400%;
+    border-radius: 30px;
+    
+}
+.startgame:hover{
+        animation: animate 8s linear infinite;
+}
+@keyframes animate{
+    0%{
+        background-position: 0%;
+    }
+    100%{
+        background-position: 400%;
+    }
+}
