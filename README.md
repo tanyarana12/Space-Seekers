@@ -1,7 +1,7 @@
 ## Tic Tac Toe with JavaScript
 (An extension of https://github.com/alialaa/js-tic-tac-toe by Ali Alaa)
 
-Game URl: https://tanyarana12.github.io/Space-Seekers/index.html
+Play this Game here: https://tanyarana12.github.io/Space-Seekers/index.html
 
 # FEATURES :-
 1. A human and AI can play with each other at different depths.
