@@ -1,4 +1,5 @@
 ## Tic Tac Toe with JavaScript
+An extension of https://github.com/alialaa/js-tic-tac-toe by alialaa
 
 Game URl: https://tanyarana12.github.io/Space-Seekers/index.html
 
