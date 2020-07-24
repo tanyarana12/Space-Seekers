@@ -2,7 +2,7 @@
 
 Game URl: https://tanyarana12.github.io/Space-Seekers/index.html
 
-#FEATURE:
+# FEATURE:
 A human and AI can play with each other at different depths.
 Allow two humans to play together.
 Allow to choose different themes for both Human vs. AI and Human vs. Human game.
