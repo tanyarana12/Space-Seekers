@@ -5,52 +5,17 @@ body{
     background: linear-gradient(#E0EAFC,#CFDEF3);
     height: 100vh;
 }
-
-#clickkkkk{
-  display: none;
-}
-
-.startgame{
-    display: block;
-     width: 120px;
-    height: 30px;
-    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
-    border: 1px solid #26a65b;
-    color: white;
-    text-align: center;
-    font-size: 18px;
-    line-height: 25px;
-    border-radius: 3px;
-    cursor: pointer;
-    transition: 0.5s;
-    box-sizing: border-box;
-    background-size: 400%;
-    border-radius: 30px;
-    
-}
-.startgame:hover{
-        animation: animate 8s linear infinite;
-}
-@keyframes animate{
-    0%{
-        background-position: 0%;
-    }
-    100%{
-        background-position: 400%;
-    }
-}
 .cente,.conten{
     position: absolute;
-    top: 10%;
-    left: 10%;
-    transform: translate(-10%, -10%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #clic{
   display: none;
 }
 .settings{
-    margin-top: 10px;
     display: block;
      width: 120px;
     height: 30px;
@@ -79,12 +44,10 @@ body{
     }
 }
 .conten{
-    
     opacity: 0;
     visibility: hidden;
-    position: absolute;
-    width: 350px;
-    height: 250px;
+    width: 450px;
+    height: 400px;
     background: white;
     border-radius: 3px;
     box-shadow: 0 2px 12px 0 rgba(0,0,0,0.4);
